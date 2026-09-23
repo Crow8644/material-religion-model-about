@@ -1,1 +1,1 @@
-# material-religion-model-about
+# About the Material Religion Research Model
