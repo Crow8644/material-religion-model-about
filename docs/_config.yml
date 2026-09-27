@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Theory and description of the project to model religious material
   culture. This is an undergraduate senior project by Caleb Ausema.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://crow8644.github.io/material-religion-model-about" # the base hostname & protocol for your site
 github_username: Crow8644
 
 # Build settings
