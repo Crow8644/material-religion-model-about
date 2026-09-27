@@ -28,7 +28,7 @@ url: "https://crow8644.github.io/material-religion-model-about" # the base hostn
 github_username: Crow8644
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: "minima"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
