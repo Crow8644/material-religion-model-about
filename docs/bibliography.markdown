@@ -7,7 +7,7 @@
 * Morgan, D. (2021). *The Thing About Religion: An Introduction to the Material Study of Religions*, The University of North Carolina Press.
 * Olson, D. v.a., Marshall, J., Jung, J. H., & Voas, D. (2020). Sacred Canopies or Religious Markets? The Effect of County‐Level Religious Diversity on Later Changes in Religious Involvement. *Journal for the Scientific Study of Religion (John Wiley & Sons, Inc.)*, 59(2), 227–246. (143678536). https://doi.org/10.1111/jssr.12651
 * Peedu, I. (2023). Method and Methodology in the Study of Religion: Making Sense of the Diversity. *Method & Theory in the Study of Religion*, 35(4), 369–400. (164706271). https://doi.org/10.1163/15700682-bja10104
-* Romanowska, I., Wren, C. D., & Crabtree, S. A. (2021) Agent-Based Modeling for Archaeology: Simulating the Complexity of Societies.
+* Romanowska, I., Wren, C. D., & Crabtree, S. A. (2021) *Agent-Based Modeling for Archaeology: Simulating the Complexity of Societies*. The Santa Fe Institute Press.
 * Shults, F. L. (2019). Computer Modeling in Philosophy of Religion. *Open Philosophy*, 2(1), 108–125. https://doi.org/10.1515/opphil-2019-0011
 
 ## Modelling research examples
