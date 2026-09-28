@@ -15,6 +15,10 @@ I hope to explore the social and economic systems that affect religious material
 
 This project is a work-in-progress. Finished NetLogo code will be publicly available here.
 
+## Other Materials
+
+[Working Biliography](./bibliography)
+
 ## About the Creator
 
 *Caleb Ausema* is an undergraduate student at Calvin University, studying both Computer Science and Spanish, with a minor in Archaeology. He prioritizes exploration in his work, across programming applications for audio editting, internship experience, and this model.
